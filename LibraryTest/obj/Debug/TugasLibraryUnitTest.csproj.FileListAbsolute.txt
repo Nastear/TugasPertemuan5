@@ -1,0 +1,11 @@
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\LibraryTest.dll
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\LibraryTest.pdb
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\nunit.framework.dll
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\TugasLibrary.dll
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\TugasLibrary.pdb
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\bin\Debug\nunit.framework.xml
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\obj\Debug\TugasLibraryUnitTest.csprojAssemblyReference.cache
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\obj\Debug\TugasLibraryUnitTest.csproj.CoreCompileInputs.cache
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\obj\Debug\TugasLibraryUnitTest.csproj.CopyComplete
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\obj\Debug\LibraryTest.dll
+D:\Kuliah semester 3\Pemrograman Lanjutan\Pertemuan 5\02 tugas\LibraryTest\obj\Debug\LibraryTest.pdb
